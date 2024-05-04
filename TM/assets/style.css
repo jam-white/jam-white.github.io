@@ -2,6 +2,7 @@ html {
     background-color: white;
     color: black;
     font-family: Arial, sans-serif;
+    font-size: 16pt;
 }
 
 body {
@@ -26,7 +27,7 @@ h1 {
 }
 
 h2 {
-    font-size: 16pt;
+    font-size: 20pt;
 }
 
 .ratings {
