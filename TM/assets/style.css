@@ -41,3 +41,13 @@ h2 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.explanation {
+    text-align: left;
+    font-size: 14pt;
+}
+
+.math-section {
+    text-align: center;
+    font-size: 14pt;
+}
